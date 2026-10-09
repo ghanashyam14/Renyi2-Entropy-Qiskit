@@ -41,6 +41,7 @@ pip install qiskit numpy matplotlib jupyter
 ```
 
 ## Usage
+To generate the bitstring data, open the `Combine_ODR_E_Entropy_No_Hadamard_SAMPLER_3qubit_REAL_QC_GitHub_file.ipynb` file in Jupyter Notebook and execute the cells sequentially. The code generates bitstrings for all 64 three-qubit Pauli operators, as well as bitstrings for calculating the operator decoherence renormalization (ODR) factors associated with the IIZ, IZI, IZZ, ZIZ, ZZI, and ZZZ operators.
 
 Open `Renyi2_vs_time_NA3_with_ODR_factor_New_Formula_SA_GitGub.ipynb`, `Renyi2_vs_time_NA3_NA2_with_ODR_factor_New_Formula_SA_GitHub.ipynb`, `Renyi2_vs_time_NA3_NA1_with_ODR_factor_New_Formula_SA_GitHub.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
