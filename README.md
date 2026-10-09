@@ -13,7 +13,7 @@ S_A^{(2)} = -\ln \left[\mathrm{Tr}(\rho_A^2)\right]
 \langle P\rangle^2\right],
 $$
 
-where $$\(\rho_A\)$$ is the reduced density matrix of subsystem A, and $$ \langle P\rangle\right$$ is the expectation value of Pauli string operators 
+where $$\(\rho_A\)$$ is the reduced density matrix of subsystem A, and $$ \langle P\rangle $$ is the expectation value of Pauli string operators 
 
 
 ## Methodology
