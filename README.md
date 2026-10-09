@@ -44,7 +44,7 @@ pip install qiskit numpy matplotlib jupyter
 
 Open `Renyi2_vs_time_NA3_with_ODR_factor_New_Formula_SA_GitGub.ipynb`, `Renyi2_vs_time_NA3_NA2_with_ODR_factor_New_Formula_SA_GitHub.ipynb`, `Renyi2_vs_time_NA3_NA1_with_ODR_factor_New_Formula_SA_GitHub.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
-To plot Renyi2 entropy versus system size N for different sub-system size $$N_A =1,2,3$$ open `S2_V2_vs_N_plots_SIMULATOR_result_withErrorbar_toSimulator_StdError_V3_SORTED_odr.ipynb` in Jupyter  Notebook and execute the cell one after another.
+To plot Renyi2 entropy versus system size N for different sub-system size $$N_A =1,2,3$$ open `S2_V2_vs_N_plots_SIMULATOR_result_withErrorbar_toSimulator_StdError_V3_SORTED_odr.ipynb` in Jupyter  Notebook and execute the cells one after another.
 
 ## Author
 * Jiunn-Wei Chen,
