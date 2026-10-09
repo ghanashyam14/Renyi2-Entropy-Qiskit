@@ -8,10 +8,13 @@ This repository contains Python code for calculating the second-order Rényi ent
 The Rényi-2 entropy of a subsystem A is defined as
 
 $$
-S_A^{(2)} = -\ln \left[\mathrm{Tr}(\rho_A^2)\right],
+S_A^{(2)} = -\ln \left[\mathrm{Tr}(\rho_A^2)\right]
+= -\ln \left[\frac{1}{8}\sum_{P\in\mathcal{P}_3}
+\langle P\rangle^2\right],
 $$
 
 where \(\rho_A\) is the reduced density matrix of subsystem A.
+
 
 ## Methodology
 
