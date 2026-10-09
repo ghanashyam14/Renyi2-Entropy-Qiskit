@@ -42,7 +42,7 @@ pip install qiskit numpy matplotlib jupyter
 
 ## Usage
 
-Open `Renyi2_entropy.ipynb` in Jupyter Notebook and execute the cells sequentially.
+Open `Renyi2_vs_time_NA3_with_ODR_factor_New_Formula_SA_GitGub.ipynb`, `Renyi2_vs_time_NA3_NA2_with_ODR_factor_New_Formula_SA_GitHub.ipynb`, `Renyi2_vs_time_NA3_NA1_with_ODR_factor_New_Formula_SA_GitHub.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
 ## Author
 * Jiunn-Wei Chen,
