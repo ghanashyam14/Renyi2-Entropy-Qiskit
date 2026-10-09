@@ -42,9 +42,12 @@ pip install qiskit numpy matplotlib jupyter
 Open `Renyi2_entropy.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
 ## Author
-
-Ghanashyam Meher  
-National Taiwan University (NTU)
+* Jiunn-Wei Chen,
+* Yu-Ting Chen,
+* Ghanashyam Meher ,
+* Berndt Müller, 
+* Andreas Schäfer,
+* Xiaojun Yao
 
 ## Reference
 
