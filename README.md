@@ -9,7 +9,7 @@ The Rényi-2 entropy of a subsystem A is defined as
 
 $$
 S_A^{(2)} = -\ln \left[\mathrm{Tr}(\rho_A^2)\right]
-= -\ln \left[\frac{1}{8}\sum_{P\in {\{I,X,Y,Z\}}^3}
+= -\ln \left[\frac{1}{8}\sum_{P\in {\[I,X,Y,Z\]}^3}
 \langle P\rangle^2\right],
 $$
 
